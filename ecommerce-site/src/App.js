@@ -16,7 +16,7 @@ function App() {
         <Container>
           <h1>Welcome to my technical store</h1>
           <Routes>
-            <Route path='/home' element={<HomeScreen />} />
+            <Route path='/' element={<HomeScreen />} />
             <Route path='/product/:id' element={<ProductScreen />} />
             <Route path='/cart/:id' element={<CartScreen />} />
           </Routes>
