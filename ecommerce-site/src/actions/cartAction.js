@@ -28,3 +28,14 @@ export const addToCart = (id, qty) => (dispatch, getState) => {
         console.error(`Product with id ${id} not found`);
     }
 };
+
+export const removeFromCart = (id) => (dispatch, getState) => {
+    dispatch(
+        {
+            type: CART_REMOVE_ITEM,
+            payload :id
+        }
+    )
+    localStorage.setItem('cartItems'. JSON.stringify(getState().cart.cartItems))
+
+}
