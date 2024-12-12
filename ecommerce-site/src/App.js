@@ -17,7 +17,7 @@ function App() {
         <Container>
           <h1>Welcome to my technical store</h1>
           <Routes>
-            <Route path='/' element={<HomeScreen />} />
+            <Route path='/github.io/frontend-course-project' element={<HomeScreen />} />
             <Route path='/login' element={<LoginScreen />} />
 
             <Route path='/product/:id' element={<ProductScreen />} />
