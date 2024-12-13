@@ -11,7 +11,7 @@ function Header() {
             <Navbar bg="dark" variant="dark" expand="lg" collapseOnSelect>
                 <Container>
 
-                    <LinkContainer to='/home'>
+                    <LinkContainer to='/frontend-course-project'>
                     
                     <Navbar.Brand>ProShop</Navbar.Brand>
                     </LinkContainer>
