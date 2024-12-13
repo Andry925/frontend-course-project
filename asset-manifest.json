@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/frontend-course-project/static/css/main.8e2be882.css",
-    "main.js": "/frontend-course-project/static/js/main.1babf766.js",
+    "main.js": "/frontend-course-project/static/js/main.3ae3db87.js",
     "static/js/453.86528490.chunk.js": "/frontend-course-project/static/js/453.86528490.chunk.js",
     "index.html": "/frontend-course-project/index.html",
     "main.8e2be882.css.map": "/frontend-course-project/static/css/main.8e2be882.css.map",
-    "main.1babf766.js.map": "/frontend-course-project/static/js/main.1babf766.js.map",
+    "main.3ae3db87.js.map": "/frontend-course-project/static/js/main.3ae3db87.js.map",
     "453.86528490.chunk.js.map": "/frontend-course-project/static/js/453.86528490.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e2be882.css",
-    "static/js/main.1babf766.js"
+    "static/js/main.3ae3db87.js"
   ]
 }
