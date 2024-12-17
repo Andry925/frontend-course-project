@@ -9,7 +9,7 @@ function LoginScreen() {
     const navigate = useNavigate();
     const location = useLocation();
 
-    const redirect = new URLSearchParams(location.search).get('redirect') || '/';
+    const redirect = new URLSearchParams(location.search).get('redirect') || '/frontend-course-project';
 
     const submitHandler = (e) => {
         e.preventDefault()
