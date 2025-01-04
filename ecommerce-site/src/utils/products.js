@@ -2,7 +2,7 @@ const products = [
   {
       '_id': '1',
       'name': 'Lenovo IdeaPad 330',
-      'image': 'https://github-production-user-asset-6210df.s3.amazonaws.com/114020399/400152228-0dbeaed1-c09e-4537-8531-2f3ef372de18.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250104T164522Z&X-Amz-Expires=300&X-Amz-Signature=79a8255e047f7dc9f81b9f4eebf4df3d5c2806169a557fe8c8dba688dafca637&X-Amz-SignedHeaders=host',
+      'image': 'https://github.com/user-attachments/assets/44b7bca2-c03c-418b-bef6-cefd16db1dff',
       'description':
           'The Lenovo IdeaPad 330 features a 14-inch Full HD display, AMD A9-9425 processor, 4GB DDR4 RAM, and a 1TB HDD, making it suitable for daily tasks and multimedia consumption.',
       'brand': 'Lenovo',
@@ -67,7 +67,7 @@ const products = [
   {
       '_id': '6',
       'name': 'Lenovo IdeaPad 3',
-      'image': 'https://github.com/user-attachments/assets/1d63b3bb-3ffd-4df5-84ab-e102d647b6bf',
+      'image': 'https://github.com/user-attachments/assets/a857a799-4291-4cae-bf4e-6e25d8e3886c',
       'description':
           'The Lenovo IdeaPad 3 is a 15.6-inch HD touchscreen laptop equipped with an Intel Core i3-10110U processor, 8GB RAM, and a 256GB SSD, offering responsive performance for everyday tasks.',
       'brand': 'Lenovo',
